@@ -13,3 +13,4 @@ def max_min(type='max'):
 if __name__ == '__main__':
     print(max_min(input("Введите max или min: "))
           (map(int, input("Введите список: ").split(' '))))
+    
